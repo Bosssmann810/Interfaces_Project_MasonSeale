@@ -15,9 +15,21 @@ namespace Interfaces_Project_MasonSeale
             _pos[1] = y;
             
         }
-        public int[] givepos()
+        public int GivePosX()
         {
-            return _pos;
+            return _pos[0];
+        }
+        public int GivePosY()
+        {
+            return _pos[1];
+        }
+        public void SetPosX(int newposx)
+        {
+            _pos[0] = newposx;
+        }
+        public void SetPosY(int newposy)
+        {
+            _pos[1] = newposy;
         }
 
     }

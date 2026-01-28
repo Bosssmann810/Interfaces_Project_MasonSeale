@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\mason unity\\Interfaces_Project_MasonSeale\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|C:\\mason unity\\Interfaces_Project_MasonSeale\\interfaces_project_masonseale\\agressivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\agressivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|C:\\mason unity\\Interfaces_Project_MasonSeale\\interfaces_project_masonseale\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|C:\\mason unity\\Interfaces_Project_MasonSeale\\interfaces_project_masonseale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|C:\\mason unity\\Interfaces_Project_MasonSeale\\interfaces_project_masonseale\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|c:\\mason unity\\interfaces_project_masonseale\\interfaces_project_masonseale\\imovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\imovestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|c:\\mason unity\\interfaces_project_masonseale\\interfaces_project_masonseale\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|C:\\mason unity\\Interfaces_Project_MasonSeale\\interfaces_project_masonseale\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|c:\\mason unity\\interfaces_project_masonseale\\interfaces_project_masonseale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|c:\\mason unity\\interfaces_project_masonseale\\interfaces_project_masonseale\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|c:\\mason unity\\interfaces_project_masonseale\\interfaces_project_masonseale\\agressivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\agressivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|c:\\mason unity\\interfaces_project_masonseale\\interfaces_project_masonseale\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\position.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,46 +42,46 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "AgressiveStrategy.cs",
               "DocumentMoniker": "C:\\mason unity\\Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale\\AgressiveStrategy.cs",
               "RelativeDocumentMoniker": "Interfaces_Project_MasonSeale\\AgressiveStrategy.cs",
               "ToolTip": "C:\\mason unity\\Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale\\AgressiveStrategy.cs",
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\AgressiveStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAIwBIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T13:10:10.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "Position.cs",
               "DocumentMoniker": "C:\\mason unity\\Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale\\Position.cs",
               "RelativeDocumentMoniker": "Interfaces_Project_MasonSeale\\Position.cs",
               "ToolTip": "C:\\mason unity\\Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale\\Position.cs",
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\Position.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "ViewState": "AgIAABEAAAAAAAAAAAA5wB4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T12:25:19.768Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "IMoveStrategy.cs",
               "DocumentMoniker": "C:\\mason unity\\Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale\\IMoveStrategy.cs",
               "RelativeDocumentMoniker": "Interfaces_Project_MasonSeale\\IMoveStrategy.cs",
               "ToolTip": "C:\\mason unity\\Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale\\IMoveStrategy.cs",
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\IMoveStrategy.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T12:18:40.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Player.cs",
               "DocumentMoniker": "C:\\mason unity\\Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale\\Player.cs",
               "RelativeDocumentMoniker": "Interfaces_Project_MasonSeale\\Player.cs",
@@ -100,7 +100,7 @@
               "RelativeDocumentMoniker": "Interfaces_Project_MasonSeale\\Enemy.cs",
               "ToolTip": "C:\\mason unity\\Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale\\Enemy.cs",
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\Enemy.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAwwA0AAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T12:11:48.245Z",
               "EditorCaption": ""
@@ -113,7 +113,7 @@
               "RelativeDocumentMoniker": "Interfaces_Project_MasonSeale\\Program.cs",
               "ToolTip": "C:\\mason unity\\Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale\\Program.cs",
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAlwA8AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAlwA8AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-28T12:10:16.863Z",
               "EditorCaption": ""

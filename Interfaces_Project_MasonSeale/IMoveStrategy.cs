@@ -8,10 +8,8 @@ namespace Interfaces_Project_MasonSeale
 {
     internal interface IMoveStrategy 
     {
-        public Position Move(Position position)
-        {
-            return position;
-        }
+        Position Move(Position position, Player player);
+        
 
     }
 }
