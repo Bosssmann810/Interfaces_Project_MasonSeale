@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\passivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|c:\\mason unity\\interfaces_project_masonseale\\interfaces_project_masonseale\\agressivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|C:\\mason unity\\Interfaces_Project_MasonSeale\\interfaces_project_masonseale\\agressivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\agressivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -83,8 +83,7 @@
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\AgressiveStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T13:10:10.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T13:10:10.161Z"
             },
             {
               "$type": "Document",
