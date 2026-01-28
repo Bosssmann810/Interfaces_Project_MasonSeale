@@ -9,8 +9,6 @@ namespace Interfaces_Project_MasonSeale
     internal class Player
     {
         public Position _playerpos;
-        public int _x;
-        public int _y;
         ConsoleColor _color;
         public Player(int x, int y, ConsoleColor color)
         {
