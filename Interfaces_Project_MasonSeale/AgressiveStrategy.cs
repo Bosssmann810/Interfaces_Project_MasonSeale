@@ -8,28 +8,24 @@ namespace Interfaces_Project_MasonSeale
 {
     internal class AgressiveStrategy : IMoveStrategy
     {
-        int holder;
+
         public Position Move(Position position, Player player)
         {
-            if (position.GivePosX() > player._playerpos.GivePosX())
+            if (position._x > player._playerpos._x)
             {
-                holder = position.GivePosX();
-                position.SetPosX(holder -= 1);
+                position._x -= 1;
             }
-            if (position.GivePosX() <= player._playerpos.GivePosX())
+            if (position._x <= player._playerpos._x)
             {
-                holder = position.GivePosX();
-                position.SetPosX(holder += 1);
+                position._x += 1;
             }
-            if (position.GivePosY() > player._playerpos.GivePosY())
+            if (position._y > player._playerpos._y)
             {
-                holder = position.GivePosY();
-                position.SetPosY(holder -= 1);
+                position._y -= 1;
             }
-            if (position.GivePosY() < player._playerpos.GivePosY())
+            if (position._y < player._playerpos._y)
             {
-                holder = position.GivePosY();
-                position.SetPosY(holder -= 1);
+                position._y += 1;
             }
 
             return position;

@@ -8,29 +8,14 @@ namespace Interfaces_Project_MasonSeale
 {
     internal class Position
     {
-        public int[] _pos = new int[2];
+       
+        public int _x;
+        public int _y;
         public Position(int x, int y)
         {
-            _pos[0] = x;
-            _pos[1] = y;
+            _x = x;
+            _y = y;
             
         }
-        public int GivePosX()
-        {
-            return _pos[0];
-        }
-        public int GivePosY()
-        {
-            return _pos[1];
-        }
-        public void SetPosX(int newposx)
-        {
-            _pos[0] = newposx;
-        }
-        public void SetPosY(int newposy)
-        {
-            _pos[1] = newposy;
-        }
-
     }
 }
