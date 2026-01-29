@@ -17,6 +17,10 @@ namespace Interfaces_Project_MasonSeale
             _color = color;
 
         }
+        public ConsoleColor WhatColor()
+        {
+            return _color;
+        }
         
     }
 }

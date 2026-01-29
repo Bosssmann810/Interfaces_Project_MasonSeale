@@ -6,23 +6,25 @@ using System.Threading.Tasks;
 
 namespace Interfaces_Project_MasonSeale
 {
-    internal class PassiveStrategy : IMoveStrategy
+    internal class RandomStrat : IMoveStrategy
     {
+        Random rand = new Random();
         public Position Move(Position position, Player player)
         {
-            if (position._x > player._playerpos._x)
+            int movedirection = rand.Next(1, 5);
+            if (movedirection == 1)
             {
                 position._x += 1;
             }
-            if (position._x < player._playerpos._x)
-            {
-                position._x -= 1;
-            }
-            if (position._y > player._playerpos._y)
+            if (movedirection == 2)
             {
                 position._y += 1;
             }
-            if (position._y < player._playerpos._y)
+            if(movedirection == 3)
+            {
+                position._x -= 1;
+            }
+            if (movedirection == 4)
             {
                 position._y -= 1;
             }
