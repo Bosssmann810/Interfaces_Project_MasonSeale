@@ -7,11 +7,11 @@
       "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\otherprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|c:\\users\\seale\\desktop\\school work\\computer programming\\new folder\\interfaces_project_masonseale\\interfaces_project_masonseale\\randomstrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|C:\\Users\\seale\\Desktop\\school work\\computer programming\\New folder\\Interfaces_Project_MasonSeale\\interfaces_project_masonseale\\randomstrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\randomstrat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|c:\\users\\seale\\desktop\\school work\\computer programming\\new folder\\interfaces_project_masonseale\\interfaces_project_masonseale\\passivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|C:\\Users\\seale\\Desktop\\school work\\computer programming\\New folder\\Interfaces_Project_MasonSeale\\interfaces_project_masonseale\\passivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{843AC17C-54FC-40E3-A322-561963CBDEEA}|Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale.csproj|solutionrelative:interfaces_project_masonseale\\passivestrategy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "Interfaces_Project_MasonSeale\\OtherProgram.cs",
               "ToolTip": "C:\\Users\\seale\\Desktop\\school work\\computer programming\\New folder\\Interfaces_Project_MasonSeale\\Interfaces_Project_MasonSeale\\OtherProgram.cs",
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\OtherProgram.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAMwA8AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAAvwBoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-29T14:18:09.113Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\RandomStrat.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-29T13:44:18.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-29T13:44:18.833Z"
             },
             {
               "$type": "Document",
@@ -84,8 +83,7 @@
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\PassiveStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T15:11:19.337Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T15:11:19.337Z"
             },
             {
               "$type": "Document",
@@ -97,8 +95,7 @@
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\App.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2026-01-28T14:02:41.983Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T14:02:41.983Z"
             },
             {
               "$type": "Document",
@@ -110,8 +107,7 @@
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\AgressiveStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T13:10:10.161Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T13:10:10.161Z"
             },
             {
               "$type": "Document",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\Position.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAiwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T12:25:19.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T12:25:19.768Z"
             },
             {
               "$type": "Document",
@@ -136,8 +131,7 @@
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\IMoveStrategy.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T12:18:40.682Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T12:18:40.682Z"
             },
             {
               "$type": "Document",
@@ -149,8 +143,7 @@
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\Player.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T12:12:51.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T12:12:51.164Z"
             },
             {
               "$type": "Document",
@@ -162,8 +155,7 @@
               "RelativeToolTip": "Interfaces_Project_MasonSeale\\Enemy.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-28T12:11:48.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-28T12:11:48.245Z"
             }
           ]
         }

@@ -13,16 +13,18 @@ namespace Interfaces_Project_MasonSeale
         Enemy enemy;
         static void Main(string[] args)
         {
+            //had to instaniate a new program to get it to not complain about publics in a static field.
             var program = new OtherProgram();
             program.run();
         }
-
+        //this is what i want it to do in on start
         public void run()
         {
+            bool looping = true;
             player = new Player(x: 1, y: 1, color: ConsoleColor.Blue);
             enemy = new Enemy(x: 4, y: 4, ConsoleColor.Red);
             enemy.SetStrat(new RandomStrat());
-            while (true)
+            while (looping)
             {
                 Console.SetCursorPosition(player._playerpos._x, player._playerpos._y);
                 Console.BackgroundColor = player.WhatColor();
@@ -32,10 +34,10 @@ namespace Interfaces_Project_MasonSeale
                 Console.Write(" ");
                 Console.WriteLine();
                 Console.BackgroundColor = ConsoleColor.Black;
-                Console.WriteLine("Press M to move the enemy, press I/O/P to change strat");
+                Console.WriteLine("Press M to move the enemy, press I/O/P to change strat, Esc to quit");
                 Console.WriteLine("I for Agressive, O for Random, P for Passive");
                 Console.WriteLine($"Current strat: {enemy.WhatStrat()}");
-                while (true)
+                while (true) 
                 {
                     ConsoleKeyInfo input = Console.ReadKey(true);
                     if (input.Key == ConsoleKey.M)
@@ -58,12 +60,18 @@ namespace Interfaces_Project_MasonSeale
                         enemy.SetStrat(new PassiveStrategy());
                         break;
                     }
+                    if(input.Key == ConsoleKey.Escape)
+                    {
+                        looping = false;
+                        break;
+                    }
 
 
                 }
                 Console.Clear();
 
             }
+            
         }
     }
 }
